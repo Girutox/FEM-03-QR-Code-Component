@@ -74,4 +74,6 @@ main {
   background-color: white;
   width: 200px;
   height: 500px;
+
+  padding: 1rem;
 }
